@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Lishe",
+    "slug": "boke",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "7.6.5.4.3",
+    "orientation": "portrait",
+    "icon": "./assets/lishe.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDXLthz-NWbdJ_xaSzl7eMG2br2BBNHKbc"
+        }
+      },
+      "package": "com.futa",
+      "versionCode": 15
+    },
+    "description": ""
+  }
+}
